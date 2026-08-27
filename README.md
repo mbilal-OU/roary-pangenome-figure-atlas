@@ -21,9 +21,12 @@ prokaryotic-core-pangenome-heatmap/
 ├── data/
 │   └── core_genes_reps_example.csv       # optional small example (same structure as real core_genes_reps.csv)
 ├── notebooks/
-│   └── core_heatmap_tutorial.R           # full R script for Google Colab / RStudio
+│   └── core_heatmap_pipeline.R           # full R script for Google Colab / RStudio
 ├── figs/
 │   └── core_genes_heatmap.png            # static PNG heatmap (25 genomes)
 ├── html/
 │   └── core_genes_heatmap.html           # interactive heatmap (heatmaply)
 └── README.md
+```
+
+> **Note:** The runnable script in this repository is `notebooks/core_heatmap_pipeline.R`. Use this filename when following or adapting the tutorial.
