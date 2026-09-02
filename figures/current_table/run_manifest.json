@@ -1,0 +1,11 @@
+{
+  "generated_utc": "2026-09-02T22:54:31.065459+00:00",
+  "input": "data/core_genes_reps.csv",
+  "input_scope": "representative/partial gene-family table",
+  "gene_families": 196,
+  "genomes": 344,
+  "strictly_present_in_all_genomes": 13,
+  "median_prevalence_percent": 63.08,
+  "seed": 42,
+  "iterations": null
+}
