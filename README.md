@@ -23,8 +23,8 @@ The [HTML report](figures/current_table/report.html), [gene-family prevalence ta
 ## Quick start
 
 ```bash
-git clone https://github.com/mbilal-OU/roary-pangenome-heatmaps.git
-cd roary-pangenome-heatmaps
+git clone https://github.com/mbilal-OU/roary-pangenome-figure-atlas.git
+cd roary-pangenome-figure-atlas
 python -m pip install -r requirements.txt
 
 python scripts/roary_pangenome_figures.py \
